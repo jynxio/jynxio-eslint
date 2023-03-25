@@ -16,7 +16,7 @@ Next, I plan to use [`Rome`](https://rome.tools/).
 
 <br/>
 
-## Content
+## .eslintrc.json
 
 ``` json
 {
