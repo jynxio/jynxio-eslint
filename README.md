@@ -2,9 +2,17 @@
 
 This `.eslintrc.json` provides reasonable and strict code checking, as well as excellent readability style checking.
 
-However, due to the inability of `Eslint` + `typescript-eslint` + `Prettier` combination to simultaneously consider performance, scalability, and ease of use, I no longer plan to use you.
+However, due to the inability of `ESLint` + `typescript-eslint` + `Prettier` combination to simultaneously consider performance, scalability, and ease of use, I no longer plan to use you.
 
 Next, I plan to use [`Rome`](https://rome.tools/).
+
+## Turning Point
+
+I have decided to switch back to using `ESLint` + `typescript-eslint` because `Rome` does not allow for custom code styles (everything else is great). 
+
+> 👀 Suddenly, I realized that I should create a `create-jynxio-app` project.
+
+<br/>
 
 <br/>
 
