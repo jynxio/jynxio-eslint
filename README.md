@@ -6,6 +6,8 @@ However, due to the inability of `ESLint` + `typescript-eslint` + `Prettier` com
 
 Next, I plan to use [`Rome`](https://rome.tools/).
 
+<br/>
+
 ## Turning Point
 
 I have decided to switch back to using `ESLint` + `typescript-eslint` because `Rome` does not allow for custom code styles (everything else is great). 
