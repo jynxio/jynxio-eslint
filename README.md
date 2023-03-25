@@ -810,7 +810,6 @@ Next, I plan to use [`Rome`](https://rome.tools/).
 			"error",
 			"beside"
 		],
-		// 功能类
 		"array-callback-return": [
 			"error"
 		],
