@@ -1,4 +1,4 @@
-## Overview
+## The Beginning
 
 This `.eslintrc.json` provides reasonable and strict code checking, as well as excellent readability style checking.
 
@@ -8,7 +8,7 @@ Next, I plan to use [`Rome`](https://rome.tools/).
 
 <br/>
 
-## Turning Point
+## The Turning Point
 
 I have decided to switch back to using `ESLint` + `typescript-eslint` because `Rome` does not allow for custom code styles (everything else is great). 
 
