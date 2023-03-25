@@ -2,13 +2,19 @@
 
 This `.eslintrc.json` provides reasonable and strict code checking, as well as excellent readability style checking.
 
-However, due to the inability of `Eslint` + `typescript-eslint` + `Prettier` combination to simultaneously consider performance, scalability, and ease of use, I no longer plan to use you. Instead, I will be using [`Rome`](https://rome.tools/).
+However, due to the inability of `Eslint` + `typescript-eslint` + `Prettier` combination to simultaneously consider performance, scalability, and ease of use, I no longer plan to use you.
+
+Next, I plan to use [`Rome`](https://rome.tools/).
+
+<br/>
 
 ## Version
 
 ``` json
 "eslint": "^8.36.0"
 ```
+
+<br/>
 
 ## Content
 
